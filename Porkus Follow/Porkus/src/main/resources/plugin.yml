@@ -1,0 +1,4 @@
+name: Porkus
+version: '1.0-SNAPSHOT'
+main: br.com.law.porkus.Porkus
+api-version: '1.21'
