@@ -1,9 +1,0 @@
-name: Porkus
-version: 1.0
-main: br.com.law.porkus.Porkus
-api-version: 1.16
-commands:
-  sos:
-    description: "Invoca ou remove o Porku"
-  bal:
-    description: "Recebe o GoldenBrick"
